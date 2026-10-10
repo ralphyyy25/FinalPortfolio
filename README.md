@@ -1,4 +1,6 @@
-# Ralph Lauren Te Portfolio (Next.js)
+# FinalPortfolio
+
+## Ralph Lauren Te Portfolio (Next.js)
 ```
 npm install
 npm run dev      # http://localhost:3000
